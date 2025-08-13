@@ -24,4 +24,6 @@ Then, require the package and use it like so:
 
 MIT
 
+## Badge
+
 [![Node CI](https://github.com/Abdul734734/node.js/actions/workflows/whatever.yml/badge.svg)](https://github.com/Abdul734734/node.js/actions/workflows/whatever.yml)
